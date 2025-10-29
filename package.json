@@ -1,0 +1,27 @@
+{
+  "name": "example-with-solidbase",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "pnpm build-units-sidebar-config && vinxi build",
+    "start": "vinxi start",
+    "version": "vinxi version",
+    "build-units-sidebar-config": "npx tsx ./scripts/build-units-sidebar-config.ts"
+  },
+  "dependencies": {
+    "@iconify-json/ri": "^1.2.5",
+    "@kobalte/solidbase": "^0.2.11",
+    "@solidjs/meta": "^0.29.4",
+    "@solidjs/router": "^0.15.3",
+    "@solidjs/start": "^1.1.0",
+    "solid-js": "^1.9.5",
+    "vinxi": "^0.5.6"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "typescript": "^5.9.3"
+  }
+}

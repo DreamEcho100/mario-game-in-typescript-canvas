@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "allowJs": true,
+    "strict": true,
+    "noEmit": true,
+    "types": ["node", "vinxi/types/client"],
+    "isolatedModules": true,
+    "paths": {
+      "~/*": ["./src/*"]
+    },
+    "resolveJsonModule": true,
+    "resolvePackageJsonExports": true
+  },
+  "include": ["src", "vitest.config.ts", "scripts"],
+  "exclude": ["node_modules", "dist", ".vinxi", "build", "output", "_ignore"]
+}

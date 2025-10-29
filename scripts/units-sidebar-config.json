@@ -1,0 +1,1083 @@
+{
+  "unitsItems": [
+    {
+      "title": "Unit 01 Game Foundations",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Canvas Rendering Basics",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-01-game-foundations/01-canvas-rendering-basics/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Game Loop And Timing",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-01-game-foundations/02-game-loop-and-timing/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Input And Controls",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-01-game-foundations/03-input-and-controls/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "04 State Management",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-01-game-foundations/04-state-management/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-01-game-foundations/04-state-management/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-01-game-foundations/04-state-management/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-01-game-foundations/04-state-management/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-01-game-foundations/04-state-management/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-01-game-foundations/04-state-management/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "05 World Coordinate System",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-01-game-foundations/05-world-coordinate-system/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "E Resources",
+          "link": "/units/unit-01-game-foundations/e-resources"
+        },
+        {
+          "title": "F Self Study",
+          "link": "/units/unit-01-game-foundations/f-self-study"
+        },
+        {
+          "title": "H Glossary",
+          "link": "/units/unit-01-game-foundations/h-glossary"
+        }
+      ]
+    },
+    {
+      "title": "Unit 02 Physics And Collisions",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Velocity And Acceleration",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Gravity And Jumping",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Collision Detection Aabb",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "04 Platformer Physics",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/04-platformer-physics/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "05 Advanced Movement",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/05-advanced-movement/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "06 Particle Systems",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/06-particle-systems/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "07 Tilemaps And Level Design",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "REORGANIZATION COMPLETE",
+          "link": "/units/unit-02-physics-and-collisions/REORGANIZATION_COMPLETE"
+        },
+        {
+          "title": "E Resources",
+          "link": "/units/unit-02-physics-and-collisions/e-resources"
+        },
+        {
+          "title": "F Self Study",
+          "link": "/units/unit-02-physics-and-collisions/f-self-study"
+        },
+        {
+          "title": "H Glossary",
+          "link": "/units/unit-02-physics-and-collisions/h-glossary"
+        }
+      ]
+    },
+    {
+      "title": "Unit 03 Entities And Animation",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Sprite Rendering",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-03-entities-and-animation/01-sprite-rendering/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Animation Systems",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-03-entities-and-animation/02-animation-systems/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Entity Management",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-03-entities-and-animation/03-entity-management/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "E Resources",
+          "link": "/units/unit-03-entities-and-animation/e-resources"
+        },
+        {
+          "title": "F Self Study",
+          "link": "/units/unit-03-entities-and-animation/f-self-study"
+        },
+        {
+          "title": "H Glossary",
+          "link": "/units/unit-03-entities-and-animation/h-glossary"
+        }
+      ]
+    },
+    {
+      "title": "Unit 04 Level Design And World",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Tilemap Systems",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-04-level-design-and-world/01-tilemap-systems/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Collision Maps",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-04-level-design-and-world/02-collision-maps/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Camera Systems",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-04-level-design-and-world/03-camera-systems/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "04 Scrolling And Parallax",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "E Resources",
+          "link": "/units/unit-04-level-design-and-world/e-resources"
+        },
+        {
+          "title": "F Self Study",
+          "link": "/units/unit-04-level-design-and-world/f-self-study"
+        },
+        {
+          "title": "H Glossary",
+          "link": "/units/unit-04-level-design-and-world/h-glossary"
+        }
+      ]
+    },
+    {
+      "title": "Unit 05 Gameplay And Ai",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Collectibles And Powerups",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Enemy Ai",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-05-gameplay-and-ai/02-enemy-ai/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Scoring And Lives",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "04 Game States",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-05-gameplay-and-ai/04-game-states/j-faq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 06 Optimization And Engine",
+      "collapsed": true,
+      "items": [
+        {
+          "title": "01 Performance Profiling",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-06-optimization-and-engine/01-performance-profiling/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "02 Architecture Patterns",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-06-optimization-and-engine/02-architecture-patterns/j-faq"
+            }
+          ]
+        },
+        {
+          "title": "03 Building Reusable Engine",
+          "collapsed": true,
+          "items": [
+            {
+              "title": "A Lesson",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/a-lesson"
+            },
+            {
+              "title": "B Exercises",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/b-exercises"
+            },
+            {
+              "title": "C Solutions",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/c-solutions"
+            },
+            {
+              "title": "D Notes",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/d-notes"
+            },
+            {
+              "title": "I Debugging",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/i-debugging"
+            },
+            {
+              "title": "J Faq",
+              "link": "/units/unit-06-optimization-and-engine/03-building-reusable-engine/j-faq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "COMPLETION SUMMARY",
+      "link": "/units/COMPLETION-SUMMARY"
+    },
+    {
+      "title": "CONTINUITY ANALYSIS",
+      "link": "/units/CONTINUITY-ANALYSIS"
+    },
+    {
+      "title": "DEEP CONTINUITY VERIFICATION",
+      "link": "/units/DEEP-CONTINUITY-VERIFICATION"
+    },
+    {
+      "title": "DOCUMENTATION UPDATE 2025 10 29",
+      "link": "/units/DOCUMENTATION-UPDATE-2025-10-29"
+    },
+    {
+      "title": "GETTING STARTED",
+      "link": "/units/GETTING-STARTED"
+    },
+    {
+      "title": "README",
+      "link": "/units/README"
+    },
+    {
+      "title": "STATUS",
+      "link": "/units/STATUS"
+    },
+    {
+      "title": "STRUCTURE",
+      "link": "/units/STRUCTURE"
+    }
+  ],
+  "endPathAcc": [
+    "/units/COMPLETION-SUMMARY",
+    "/units/CONTINUITY-ANALYSIS",
+    "/units/DEEP-CONTINUITY-VERIFICATION",
+    "/units/DOCUMENTATION-UPDATE-2025-10-29",
+    "/units/GETTING-STARTED",
+    "/units/README",
+    "/units/STATUS",
+    "/units/STRUCTURE",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/a-lesson",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/b-exercises",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/c-solutions",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/d-notes",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/i-debugging",
+    "/units/unit-01-game-foundations/01-canvas-rendering-basics/j-faq",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/a-lesson",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/b-exercises",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/c-solutions",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/d-notes",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/i-debugging",
+    "/units/unit-01-game-foundations/02-game-loop-and-timing/j-faq",
+    "/units/unit-01-game-foundations/03-input-and-controls/a-lesson",
+    "/units/unit-01-game-foundations/03-input-and-controls/b-exercises",
+    "/units/unit-01-game-foundations/03-input-and-controls/c-solutions",
+    "/units/unit-01-game-foundations/03-input-and-controls/d-notes",
+    "/units/unit-01-game-foundations/03-input-and-controls/i-debugging",
+    "/units/unit-01-game-foundations/03-input-and-controls/j-faq",
+    "/units/unit-01-game-foundations/04-state-management/a-lesson",
+    "/units/unit-01-game-foundations/04-state-management/b-exercises",
+    "/units/unit-01-game-foundations/04-state-management/c-solutions",
+    "/units/unit-01-game-foundations/04-state-management/d-notes",
+    "/units/unit-01-game-foundations/04-state-management/i-debugging",
+    "/units/unit-01-game-foundations/04-state-management/j-faq",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/a-lesson",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/b-exercises",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/c-solutions",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/d-notes",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/i-debugging",
+    "/units/unit-01-game-foundations/05-world-coordinate-system/j-faq",
+    "/units/unit-01-game-foundations/e-resources",
+    "/units/unit-01-game-foundations/f-self-study",
+    "/units/unit-01-game-foundations/h-glossary",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/a-lesson",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/b-exercises",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/c-solutions",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/d-notes",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/i-debugging",
+    "/units/unit-02-physics-and-collisions/01-velocity-and-acceleration/j-faq",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/a-lesson",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/b-exercises",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/c-solutions",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/d-notes",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/i-debugging",
+    "/units/unit-02-physics-and-collisions/02-gravity-and-jumping/j-faq",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/a-lesson",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/b-exercises",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/c-solutions",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/d-notes",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/i-debugging",
+    "/units/unit-02-physics-and-collisions/03-collision-detection-aabb/j-faq",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/a-lesson",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/b-exercises",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/c-solutions",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/d-notes",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/i-debugging",
+    "/units/unit-02-physics-and-collisions/04-platformer-physics/j-faq",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/a-lesson",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/b-exercises",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/c-solutions",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/d-notes",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/i-debugging",
+    "/units/unit-02-physics-and-collisions/05-advanced-movement/j-faq",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/a-lesson",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/b-exercises",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/c-solutions",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/d-notes",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/i-debugging",
+    "/units/unit-02-physics-and-collisions/06-particle-systems/j-faq",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/a-lesson",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/b-exercises",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/c-solutions",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/d-notes",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/i-debugging",
+    "/units/unit-02-physics-and-collisions/07-tilemaps-and-level-design/j-faq",
+    "/units/unit-02-physics-and-collisions/REORGANIZATION_COMPLETE",
+    "/units/unit-02-physics-and-collisions/e-resources",
+    "/units/unit-02-physics-and-collisions/f-self-study",
+    "/units/unit-02-physics-and-collisions/h-glossary",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/a-lesson",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/b-exercises",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/c-solutions",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/d-notes",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/i-debugging",
+    "/units/unit-03-entities-and-animation/01-sprite-rendering/j-faq",
+    "/units/unit-03-entities-and-animation/02-animation-systems/a-lesson",
+    "/units/unit-03-entities-and-animation/02-animation-systems/b-exercises",
+    "/units/unit-03-entities-and-animation/02-animation-systems/c-solutions",
+    "/units/unit-03-entities-and-animation/02-animation-systems/d-notes",
+    "/units/unit-03-entities-and-animation/02-animation-systems/i-debugging",
+    "/units/unit-03-entities-and-animation/02-animation-systems/j-faq",
+    "/units/unit-03-entities-and-animation/03-entity-management/a-lesson",
+    "/units/unit-03-entities-and-animation/03-entity-management/b-exercises",
+    "/units/unit-03-entities-and-animation/03-entity-management/c-solutions",
+    "/units/unit-03-entities-and-animation/03-entity-management/d-notes",
+    "/units/unit-03-entities-and-animation/03-entity-management/i-debugging",
+    "/units/unit-03-entities-and-animation/03-entity-management/j-faq",
+    "/units/unit-03-entities-and-animation/e-resources",
+    "/units/unit-03-entities-and-animation/f-self-study",
+    "/units/unit-03-entities-and-animation/h-glossary",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/a-lesson",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/b-exercises",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/c-solutions",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/d-notes",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/i-debugging",
+    "/units/unit-04-level-design-and-world/01-tilemap-systems/j-faq",
+    "/units/unit-04-level-design-and-world/02-collision-maps/a-lesson",
+    "/units/unit-04-level-design-and-world/02-collision-maps/b-exercises",
+    "/units/unit-04-level-design-and-world/02-collision-maps/c-solutions",
+    "/units/unit-04-level-design-and-world/02-collision-maps/d-notes",
+    "/units/unit-04-level-design-and-world/02-collision-maps/i-debugging",
+    "/units/unit-04-level-design-and-world/02-collision-maps/j-faq",
+    "/units/unit-04-level-design-and-world/03-camera-systems/a-lesson",
+    "/units/unit-04-level-design-and-world/03-camera-systems/b-exercises",
+    "/units/unit-04-level-design-and-world/03-camera-systems/c-solutions",
+    "/units/unit-04-level-design-and-world/03-camera-systems/d-notes",
+    "/units/unit-04-level-design-and-world/03-camera-systems/i-debugging",
+    "/units/unit-04-level-design-and-world/03-camera-systems/j-faq",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/a-lesson",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/b-exercises",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/c-solutions",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/d-notes",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/i-debugging",
+    "/units/unit-04-level-design-and-world/04-scrolling-and-parallax/j-faq",
+    "/units/unit-04-level-design-and-world/e-resources",
+    "/units/unit-04-level-design-and-world/f-self-study",
+    "/units/unit-04-level-design-and-world/h-glossary",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/a-lesson",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/b-exercises",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/c-solutions",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/d-notes",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/i-debugging",
+    "/units/unit-05-gameplay-and-ai/01-collectibles-and-powerups/j-faq",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/a-lesson",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/b-exercises",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/c-solutions",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/d-notes",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/i-debugging",
+    "/units/unit-05-gameplay-and-ai/02-enemy-ai/j-faq",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/a-lesson",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/b-exercises",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/c-solutions",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/d-notes",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/i-debugging",
+    "/units/unit-05-gameplay-and-ai/03-scoring-and-lives/j-faq",
+    "/units/unit-05-gameplay-and-ai/04-game-states/a-lesson",
+    "/units/unit-05-gameplay-and-ai/04-game-states/b-exercises",
+    "/units/unit-05-gameplay-and-ai/04-game-states/c-solutions",
+    "/units/unit-05-gameplay-and-ai/04-game-states/d-notes",
+    "/units/unit-05-gameplay-and-ai/04-game-states/i-debugging",
+    "/units/unit-05-gameplay-and-ai/04-game-states/j-faq",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/a-lesson",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/b-exercises",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/c-solutions",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/d-notes",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/i-debugging",
+    "/units/unit-06-optimization-and-engine/01-performance-profiling/j-faq",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/a-lesson",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/b-exercises",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/c-solutions",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/d-notes",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/i-debugging",
+    "/units/unit-06-optimization-and-engine/02-architecture-patterns/j-faq",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/a-lesson",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/b-exercises",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/c-solutions",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/d-notes",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/i-debugging",
+    "/units/unit-06-optimization-and-engine/03-building-reusable-engine/j-faq"
+  ]
+}
