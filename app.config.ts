@@ -18,6 +18,7 @@ export default defineConfig(
           crawlLinks: true,
           routes: ["/", "/about", ...unitsSidebarConfig.endPathAcc],
         },
+        static: true,
       },
     },
     // SolidBase config
