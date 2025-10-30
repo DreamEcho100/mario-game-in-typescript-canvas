@@ -1,7 +1,7 @@
 import { defineConfig } from "@solidjs/start/config";
 import { withSolidBase } from "@kobalte/solidbase/config";
 // Allow JSON module imports
-import unitsSidebarConfig from "./scripts/units-sidebar-config.json";
+import unitsSidebarConfig from "./src/config/units-sidebar.json";
 
 export default defineConfig(
   withSolidBase(
@@ -73,7 +73,7 @@ export default defineConfig(
         // Social links in footer
         socialLinks: {
           github:
-            "https://github.com/your-username/mario-game-in-typescript-canvas",
+            "https://github.com/DreamEcho100/mario-game-in-typescript-canvas",
           // discord: "https://discord.gg/your-server", // Optional
         },
 

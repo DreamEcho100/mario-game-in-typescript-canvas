@@ -12,11 +12,10 @@ function formatTitle(name: string): string {
 // if it's a `mdx` or `md` file, create a sidebar item with the file name as the title and the path as the link
 // If it's a directory, create a sidebar item with the directory name as the title, collapsed as true, and recursively call the function to get the items
 function generateSidebarItems(dirPath: string, endPathAcc: string[]): any[] {
-  // const items: any[] = [];
   const filesAndDirs = fs.readdirSync(path.resolve(process.cwd(), dirPath));
 
-  const dirs = [];
-  const files = [];
+  const dirs: unknown[] = [];
+  const files: unknown[] = [];
 
   for (const name of filesAndDirs) {
     const fullPath = `${dirPath}/${name}`;
@@ -39,7 +38,7 @@ function generateSidebarItems(dirPath: string, endPathAcc: string[]): any[] {
     }
   }
 
-  return [...dirs, ...files];
+  return dirs.concat(files);
 }
 
 const endPathAcc: string[] = [];
@@ -47,6 +46,6 @@ const unitsItems = generateSidebarItems("./src/routes/units", endPathAcc);
 
 // set { unitsItems, endPathAcc } to a json file at `./script/units-sidebar-config.json`
 fs.writeFileSync(
-  path.resolve(process.cwd(), "scripts/units-sidebar-config.json"),
+  path.resolve(process.cwd(), "src/config/units-sidebar.json"),
   JSON.stringify({ unitsItems, endPathAcc }, null, 2)
 );
